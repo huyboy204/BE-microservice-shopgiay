@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "DangNhap_Service_BE"
+		},
+		{
+			"path": "Product_Service_BE"
+		},
+		{
+			"path": "Image_Service_BE"
+		}
+	],
+	"settings": {}
+}
